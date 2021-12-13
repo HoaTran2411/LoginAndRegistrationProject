@@ -1,0 +1,23 @@
+input {
+    font-size: 16px !important;
+}
+
+#button-create-new-account {
+    width: 50% !important;
+    min-width: fit-content !important;
+    margin-top: 20px !important;
+    background-color: #1877F2 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+button {
+    font-weight: 600 !important;
+}
+
+#account-title {
+    margin-top: 50px !important;
+    margin-bottom: 30px !important;
+}

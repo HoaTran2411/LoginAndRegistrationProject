@@ -1,0 +1,1 @@
+insert into user (full_name, password, email) values ('admin', '$2a$12$Ass3YFsOBQ.36vmAqUsGPucTiSQC35mKqiYb2ibg3yHHLxj.rJP2q', 'admin@techmaster.vn');
